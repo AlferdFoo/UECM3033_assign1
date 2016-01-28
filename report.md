@@ -28,7 +28,7 @@ Put here the screen shot of file (python.png)
 
 1. Hexadecimal representation of 13000981 is 0xc66115
 
-2. $$\int_0^frac{\pi}2 4 \cos x \sin x \e^{2 \cos x +1} \, dx = \e + \e^3.$$
+2. $$\int_0^\frac{\pi}2 4 \cos x \sin x e^{2 \cos x +1} \, dx = e + e^3.$$
 
 3. System of 10 linear equation:
 
